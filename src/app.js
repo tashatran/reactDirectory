@@ -70,7 +70,7 @@ class App extends Component {
 		<div>
 			<button onClick={
 				this.sortName
-			}>Name</button>
+			}>Alphabetize Name</button>
 			<input />
 		<Form 
 		firstName={this.state.firstName}
