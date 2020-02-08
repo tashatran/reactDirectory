@@ -1,0 +1,86 @@
+[
+    {
+      "id": 1,
+      "firstName": "SpongeBob",
+      "lastName": "Squarepants",
+      "email": "spongebob@cartoon.com",
+      "dateOfBirth": "01-23-1978"
+    },
+    {
+      "id": 2,
+      "firstName": "Krabs",
+      "lastName": "Krabs",
+      "email": "krabs@cartoon.com",
+      "dateOfBirth": "02-24-1965"
+    },
+    {
+      "id": 3,
+      "firstName": "Squidward",
+      "lastName": "Squiddy",
+      "email": "squiward@cartoon.com",
+      "dateOfBirth": "03-14-1955"
+    },
+    {
+      "id": 4,
+      "firstName": "Dexter",
+      "lastName": "Genius",
+      "email": "dexter@cartoon.com",
+      "dateOfBirth": "05-27-1995"
+    },
+    {
+      "id": 5,
+      "firstName": "Courage",
+      "lastName": "Dog",
+      "email": "courage@cartoon.com",
+      "dateOfBirth": "6-11-1988"
+    },
+    {
+      "id": 6,
+      "firstName": "Doug",
+      "lastName": "Funnie",
+      "email": "doug@cartoon.com",
+      "dateOfBirth": "7-14-1986"
+    },
+    {
+      "id": 7,
+      "firstName": "Bugs",
+      "lastName": "Bunny",
+      "email": "bugs@cartoon.com",
+      "dateOfBirth": "8-12-1955"
+    },
+    {
+      "id": 8,
+      "firstName": "Johnny",
+      "lastName": "Bravo",
+      "email": "johnny@cartoon.com",
+      "dateOfBirth": "08-30-1988"
+    },
+    {
+      "id": 9,
+      "firstName": "Tommy",
+      "lastName": "Pickles",
+      "email": "tommy@cartoon.com",
+      "dateOfBirth": "9-12-1995"
+    },
+    {
+      "id": 10,
+      "firstName": "Rocko",
+      "lastName": "Man",
+      "email": "rocko@cartoon.com",
+      "dateOfBirth": "01-25-1976"
+    },
+    {
+      "id": 11,
+      "firstName": "Captain",
+      "lastName": "Planet",
+      "email": "captain@cartoon.com",
+      "dateOfBirth": "04-30-1977"
+    },
+    {
+      "id": 12,
+      "firstName": "Ickis",
+      "lastName": "Monster",
+      "email": "ickis@cartoon.com",
+      "dateOfBirth": "03-17-1980"
+    }
+  ]
