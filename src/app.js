@@ -31,9 +31,9 @@ class App extends Component {
 		//sort a deep copy of the list
 		//WRONG: this.state.property=value
 		//RIGHT: this.setState({propert:value})
-		let dontMessWithState= new Array(...employeeList)
-		console.log(dontMessWithState)
-		let filtersReturnNewArrays= dontMessWithState.filter(employee=>{
+		let findFirstName= new Array(...employeeList)
+		console.log(findFirstName)
+		let filtersReturnNewArrays= findFirstName.filter(employee=>{
 			console.log(employee.firstName)
 			console.log(this.state.firstName)
 			
