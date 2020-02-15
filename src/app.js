@@ -7,7 +7,7 @@ class App extends Component {
 	state = {
 		sorted: employeeList,
 		firstName: "",
-		lastName: 		""
+		lastName: ""
 	}
 	handleInputChange = event => {
 		// Getting the value and name of the input which triggered the change
@@ -68,16 +68,18 @@ class App extends Component {
 		return( 
 			
 		<div>
-			<button onClick={
-				this.sortName
-			}>Alphabetize Name</button>
-			<input />
+		
 		<Form 
 		firstName={this.state.firstName}
 		lastName={this.state.lastName}
 		handleInputChange={this.handleInputChange}
 		handleFormSubmit={this.handleFormSubmit}
-		/>
+		/> 
+	
+			<button onClick={
+				this.sortName
+			}>Alphabetize Name</button>
+
 		<Employee employeeList={this.state.sorted}/>
 		
 		</div>

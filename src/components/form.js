@@ -47,17 +47,13 @@ function Form (props) {
             name="firstName"
             onChange={props.handleInputChange}
             type="text"
-            placeholder="First Name"
+            placeholder="First Name or Last Name"
           />
-          <input
-            value={props.lastName}
-            name="lastName"
-            onChange={props.handleInputChange}
-            type="text"
-            placeholder="Last Name"
-          />
+         
           <button onClick={props.handleFormSubmit}>Submit</button>
         </form>
+        Please type in lowercase
+        
       </div>
     );
   
